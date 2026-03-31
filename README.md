@@ -32,3 +32,22 @@ The project explores:
 ---
 
 ## 🗂️ Repository Structure
+
+oss-audit-24BAS10050/
+│
+├── 📄 README.md
+│
+├── 📜 Scripts/
+│ ├── script1_system_identity.sh
+│ ├── script2_module_inspector.sh
+│ ├── script3_proc_auditor.sh
+│ ├── script4_dmesg_analyzer.sh
+│ └── script5_manifesto_gen.sh
+│
+├── 📊 Assets/
+│ ├── diagrams/
+│ ├── charts/
+│ └── screenshots/
+│
+└── 📘 Report/
+└── OSS_Audit_Report.pdf
