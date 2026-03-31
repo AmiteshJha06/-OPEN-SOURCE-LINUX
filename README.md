@@ -1,26 +1,34 @@
-# OPEN-SOURCE-LINUX  
-# OSS Audit — Linux Kernel  
+# 🚀 OSS Audit — Linux Kernel  
 ### Open Source Software Capstone Project  
 
 ---
 
+## 👨‍🎓 Student Details
+
 | Field | Details |
 |---|---|
-| **Student Name** | AMITESH KUMAR JHA |
-| **Roll Number** | 24BAS10050 |
+| **Name** | **Amitesh Kumar Jha** |
+| **Registration No.** | **24BAS10050** |
 | **Course** | Open Source Software (OSS NGMC) |
-| **Chosen Software** | Linux Kernel |
+| **University** | VIT Bhopal |
+| **Project Type** | OSS Audit |
+| **Target Software** | Linux Kernel |
 | **License** | GPL v2 |
-| **Repository** | `oss-audit-24BAS10050` |
 
 ---
 
-## About This Project
+## 📌 Project Overview
 
-This repository is a complete OSS audit of the **Linux Kernel** — the open-source operating system kernel first released by Linus Torvalds in 1991. The project covers the kernel's origin story, GPL v2 license analysis, ethical reflections, Linux filesystem footprint, ecosystem mapping, and a comparison with proprietary alternatives.
+This repository presents a **comprehensive audit of the Linux Kernel**, one of the most impactful open-source projects in computing history.
 
-The repository contains five shell scripts that demonstrate practical Linux skills and connect directly to the audit report's findings.
+The project explores:
+- 📖 Origin & evolution (since 1991)
+- ⚖️ GPL v2 licensing model
+- 🌍 Open-source ethics & philosophy
+- 🧠 Kernel architecture & ecosystem
+- 🔍 Real-time system auditing using shell scripts
+- ⚔️ Comparison with proprietary systems
 
 ---
 
-## Repository Structure
+## 🗂️ Repository Structure
